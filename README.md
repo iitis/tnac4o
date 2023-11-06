@@ -1,4 +1,6 @@
-Tensor network approximate contractions for optimalization (tnac4o)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10075553.svg)](https://doi.org/10.5281/zenodo.10075553)
+
+Tensor network approximate contractions for optimization (tnac4o)
 ============
 Accompanying article:
 M. M. Rams, M. Mohseni, D. Eppens, K. Jałowiecki and B. Gardas, 
